@@ -5,4 +5,4 @@ The importance of mental health in college students cannot be emphasized enough.
 - Depression
 - Panic Attack
 
-<iframe src="https://www.kaggle.com/embed/anmolbajpai/student-mental-analysis-eda-ml?cellIds=3&kernelSessionId=112629062" height="300" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Student Mental Analysis"></iframe>
+<img src="https://www.kaggle.com/embed/anmolbajpai/student-mental-analysis-eda-ml?cellIds=3&kernelSessionId=112629062"></img>
